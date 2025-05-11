@@ -1,0 +1,20 @@
+C:\Users\Laptop Care\source\repos\SmartWarehouseSystem\SmartWarehouseSystem\bin\Debug\SmartWarehouseSystem.exe.config
+C:\Users\Laptop Care\source\repos\SmartWarehouseSystem\SmartWarehouseSystem\bin\Debug\SmartWarehouseSystem.exe
+C:\Users\Laptop Care\source\repos\SmartWarehouseSystem\SmartWarehouseSystem\bin\Debug\SmartWarehouseSystem.pdb
+C:\Users\Laptop Care\source\repos\SmartWarehouseSystem\SmartWarehouseSystem\obj\Debug\SmartWarehouseSystem.csproj.AssemblyReference.cache
+C:\Users\Laptop Care\source\repos\SmartWarehouseSystem\SmartWarehouseSystem\obj\Debug\SmartWarehouseSystem.Form1.resources
+C:\Users\Laptop Care\source\repos\SmartWarehouseSystem\SmartWarehouseSystem\obj\Debug\SmartWarehouseSystem.Properties.Resources.resources
+C:\Users\Laptop Care\source\repos\SmartWarehouseSystem\SmartWarehouseSystem\obj\Debug\SmartWarehouseSystem.csproj.GenerateResource.cache
+C:\Users\Laptop Care\source\repos\SmartWarehouseSystem\SmartWarehouseSystem\obj\Debug\SmartWarehouseSystem.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Care\source\repos\SmartWarehouseSystem\SmartWarehouseSystem\obj\Debug\SmartWarehouseSystem.exe
+C:\Users\Laptop Care\source\repos\SmartWarehouseSystem\SmartWarehouseSystem\obj\Debug\SmartWarehouseSystem.pdb
+C:\Users\user\Downloads\SmartWarehouseSystem\SmartWarehouseSystem\bin\Debug\SmartWarehouseSystem.exe.config
+C:\Users\user\Downloads\SmartWarehouseSystem\SmartWarehouseSystem\bin\Debug\SmartWarehouseSystem.exe
+C:\Users\user\Downloads\SmartWarehouseSystem\SmartWarehouseSystem\bin\Debug\SmartWarehouseSystem.pdb
+C:\Users\user\Downloads\SmartWarehouseSystem\SmartWarehouseSystem\obj\Debug\SmartWarehouseSystem.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\SmartWarehouseSystem\SmartWarehouseSystem\obj\Debug\SmartWarehouseSystem.Form1.resources
+C:\Users\user\Downloads\SmartWarehouseSystem\SmartWarehouseSystem\obj\Debug\SmartWarehouseSystem.Properties.Resources.resources
+C:\Users\user\Downloads\SmartWarehouseSystem\SmartWarehouseSystem\obj\Debug\SmartWarehouseSystem.csproj.GenerateResource.cache
+C:\Users\user\Downloads\SmartWarehouseSystem\SmartWarehouseSystem\obj\Debug\SmartWarehouseSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\SmartWarehouseSystem\SmartWarehouseSystem\obj\Debug\SmartWarehouseSystem.exe
+C:\Users\user\Downloads\SmartWarehouseSystem\SmartWarehouseSystem\obj\Debug\SmartWarehouseSystem.pdb
